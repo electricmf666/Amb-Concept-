@@ -1,2 +1,2 @@
-# Amb-Concept-
+# Amb-Concept
 Landing page
